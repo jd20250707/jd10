@@ -13,4 +13,4 @@
 除了丰富的资源，优质站点还会提供在线播放和磁力下载两种方式，确保用户在手机、平板、电脑等设备上都能流畅观看。许多站点还会提供备用域名或镜像站，防止因封站而无法访问。同时，使用海外服务器或CDN加速，能提高视频加载速度和播放稳定性，避免卡顿现象。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/jd20250707/jd10 ）</span>
